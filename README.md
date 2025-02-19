@@ -11,11 +11,11 @@ RTMB can be installed directly with `install.packaged("RTMB")` or through GitHub
 
 ## Vignettes
 
-This package has both an introduction vignette and an advanced vignette. The advanced vignette goes over my head, even with familiarity to TMB, but the introduction vignette gives an overview on the differences between using TMB syntax and RTMB. 
+This package has both an introduction vignette and an advanced vignette. The advanced vignette goes over my head, even with familiarity to TMB, as it is focued on the "MakeTape" function rather than "MakeADFun". The introduction vignette gives an overview on the differences between using TMB syntax and RTMB. RTMB requires a familiarity with the use of TMB. 
 
 ## Applications
 
-Are there any applications of the package, as demonstrated on a website like we built, someone’s blog, Twitter post, etc? If so, describe some of them.
+There are no web applications of RTMB that I am aware of. 
 
 ## Review
 
