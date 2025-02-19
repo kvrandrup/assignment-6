@@ -3,15 +3,15 @@ Repository for FISH 549 Assignment 6 -- exploring R packages
 
 ## Package Title
 
-what is the package title
+RTMB
 
 ## Location
 
-where can you install the package on the web? CRAN or GitHub?
+RTMB can be installed directly with `install.packaged("RTMB")` or through GitHub with `remotes::install_github("https://github.com/kaskr/RTMB", subdir="RTMB")`. 
 
 ## Vignettes
 
-does the package have any formal vignettes or just the standard collection of help files? if there are multuple what topics do they cover
+This package has both an introduction vignette and an advanced vignette. The advanced vignette goes over my head, even with familiarity to TMB, but the introduction vignette gives an overview on the differences between using TMB syntax and RTMB. 
 
 ## Applications
 
